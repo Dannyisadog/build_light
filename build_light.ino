@@ -3,9 +3,9 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "mobix";
-const char* password = "nationalday";
-const char* mqtt_server = "192.168.2.9";
+const char* ssid = "ssid";
+const char* password = "passwd";
+const char* mqtt_server = "mqtt_server";
 const char* topic = "f2e_status";
 const int ledpin = 14;
 WiFiClient espClient;
